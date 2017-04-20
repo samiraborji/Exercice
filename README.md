@@ -7,7 +7,7 @@
 
 ## __Introduction__
 
-Nous allons énumèrer la liste qui nous semble essentielle pour l'apprentissage du métier de **développeur web**.
+Nous allons énumèrer la liste qui nous semble essentielle selon nous pour l'apprentissage du métier de **développeur web**.
 
 
 1. __Matériel:__
@@ -54,7 +54,7 @@ _Un des éléments clé pour l'apprentissage est l'esprit d'équipe sans quoi il
 
 *Il est toute fois clair que nous avons besoin d'outils pour réaliser cela, notamment un pc et une connexion internet qui sont un strict minimum.*
 
-_Et pour complèter le tout, bien entendue, quelques éléments importante, comme l'esprit d'équipe, l'entreaide, **l'écoute** de l'autre, etc._
+_Et pour complèter le tout, bien entendue, quelques éléments importants, comme la persévérance, l'entreaide, **l'écoute** de l'autre, qui améne à la réussite dy projet._
 
 ![](http://images.forum-auto.com/mesimages/659979/adiieu.gif)
 
