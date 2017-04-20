@@ -41,6 +41,7 @@ Nous allons énumèrer la liste qui nous semble essentielle selon nous pour l'ap
 
 	* Eric & Emilie: <br/>
 		>> ![Formateur](https://github.com/nadiabena/Exercice/blob/master/nad.png) <br/>
+		>> ![Formateur](https://github.com/nadiabena/Exercice/blob/master/jaja.png)
 		>> ![Formatrice]() <br/>
 	* Références: <br/>
 		>> [Google](https://www.google.be) <br/>
