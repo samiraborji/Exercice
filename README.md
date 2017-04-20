@@ -1,5 +1,5 @@
 
-# __Présentation du Projet:__
+# __Présentation du Projet__
 
 
 #### De quoi a-t-on besoin pour apprendre?
@@ -7,7 +7,8 @@
 
 ## __Introduction__
 
-Nous allons énumèrer la liste qui nous semble essentielle selon nous pour l'apprentissage du métier de **développeur web**.
+Nous allons énumèrer la liste qui nous semble essentielle pour l'apprentissage du métier de **développeur web**. <br/>
+Selon nous, il nous faudrait un certain environnement pour être à même de mener à bien un projet.
 
 
 1. __Matériel:__
@@ -35,7 +36,7 @@ Nous allons énumèrer la liste qui nous semble essentielle selon nous pour l'ap
 
 4. __Source d'information:__
 
-	* Eric & Emilie: <br/>
+	* Eric & Emilie & Eric: <br/>
 		>> ![Formateur](https://github.com/nadiabena/Exercice/blob/master/nad.png) 
 		>> ![Formatrice](https://github.com/nadiabena/Exercice/blob/master/emilie.png) 
 		>> ![Formateur](https://github.com/nadiabena/Exercice/blob/master/jaja.png) <br/>
@@ -51,7 +52,9 @@ _Un des éléments clé pour l'apprentissage est l'esprit d'équipe sans quoi il
 
 *Il est toute fois clair que nous avons besoin d'outils pour réaliser cela, notamment un pc et une connexion internet qui sont un strict minimum.*
 
-_Et pour complèter le tout, bien entendue, quelques éléments importants, comme la persévérance, l'entreaide, **l'écoute** de l'autre, qui améne à la réussite dy projet._
+_Et pour complèter le tout, bien entendue, quelques éléments importants, comme la persévérance, l'entreaide, **l'écoute** de l'autre, qui améne à la réussite du projet._
+
+*Ce travail nous a permis de réaliser l'importance du travail en groupe, comme on dit __***l'union fait la force***__.* 
 
 
 ![](http://images.forum-auto.com/mesimages/659979/adiieu.gif)
