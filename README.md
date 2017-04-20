@@ -56,7 +56,7 @@ _Et pour complèter le tout, bien entendue, quelques éléments importants, comm
 
 *Ce travail nous a permis de réaliser l'importance du travail en groupe, comme on dit __***l'union fait la force***__.* 
 
-
+:;;,
 ![](http://images.forum-auto.com/mesimages/659979/adiieu.gif)
 
 
