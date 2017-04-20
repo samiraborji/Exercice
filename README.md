@@ -17,8 +17,6 @@ Nous allons énumèrer la liste qui nous semble essentielle selon nous pour l'ap
 	* Chaise
 	* Bureau/ Table
 	* Locale
-	* Chauffages
-
 
 2. __Esprit d'équipe:__
 
