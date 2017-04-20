@@ -17,24 +17,20 @@ Nous allons énumèrer la liste qui nous semble essentielle selon nous pour l'ap
 	* Chaise
 	* Bureau/ Table
 	* Locale
-	* ..fgh
-
 
 2. __Esprit d'équipe:__
 
 	* Persévérance
 	* Autonomie
 	* Partage d'idée/ Entre aide
-	* ...
-
-
+	
 3. __Pratique:__
 
 	* Avoir confiance en soi
 	* Communiquer
 	* Ordonner
 	* Être à l'écoute des autres
-	* ...
+	* Partage
 
 
 4. __Source d'information:__
@@ -56,6 +52,7 @@ _Un des éléments clé pour l'apprentissage est l'esprit d'équipe sans quoi il
 *Il est toute fois clair que nous avons besoin d'outils pour réaliser cela, notamment un pc et une connexion internet qui sont un strict minimum.*
 
 _Et pour complèter le tout, bien entendue, quelques éléments importants, comme la persévérance, l'entreaide, **l'écoute** de l'autre, qui améne à la réussite dy projet._
+
 
 ![](http://images.forum-auto.com/mesimages/659979/adiieu.gif)
 
